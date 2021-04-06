@@ -1,5 +1,3 @@
-# Awesome-Image-Sythesis
-
 
 # Video-to-video Sythesis
 - Video-to-Video Synthesis  NeurIPS. 2019. [[code](https://github.com/sakshamgupta006/video-to-video-synthesis)]
