@@ -18,7 +18,7 @@
 
 # Speech-Driven Animation
 - End-to-End Speech-Driven Facial Animation using Temporal GANs [[paper](https://sites.google.com/view/facialsynthesis/home)][[code](https://github.com/DinoMan/speech-driven-animation)]
-- Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses. ACCV 2020. [[code](https://github.com/sibozhang/Speech2Video)]
+- Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses. ACCV 2020. [[paper](https://arxiv.org/abs/2007.09198)][[code](https://github.com/sibozhang/Speech2Video)]
 
 
 
