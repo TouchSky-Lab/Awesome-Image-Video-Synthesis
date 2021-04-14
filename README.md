@@ -16,14 +16,14 @@
 
 
 # Style-Transfer Generator
-- CycleGAN: 
-- Pix2pix: 
-
+- CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. ICCV. 2017 [[paper](https://arxiv.org/abs/1703.10593)]
+- Pix2pix:Image-to-Image Translation with Conditional Adversarial Networks. CVPR. 2017. [[paper](https://arxiv.org/abs/1611.07004)] [[code]https://github.com/phillipi/pix2pix]
 
 # Conditional Generator
 - Conditional GAN: 
 - AC GAN:
 - Stack-GAN:
+- PG-GAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR, 2018 [[paper](https://arxiv.org/abs/1710.10196)]
 - TL-GAN: Transparent Latent-space GAN [[code](https://github.com/SummitKwan/transparent_latent_gan)]
 
 
