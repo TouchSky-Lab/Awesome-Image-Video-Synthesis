@@ -15,6 +15,16 @@
 - 
 
 
+# Style-Transfer Generator
+- CycleGAN: 
+- Pix2pix: 
+
+
+# Conditional Generator
+- Conditional GAN: 
+- AC GAN:
+- Stack-GAN:
+- TL-GAN: Transparent Latent-space GAN [[code](https://github.com/SummitKwan/transparent_latent_gan)]
 
 
 
