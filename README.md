@@ -17,7 +17,7 @@
 
 # Style-Transfer Generator
 - CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. ICCV. 2017 [[paper](https://arxiv.org/abs/1703.10593)]
-- Pix2pix:Image-to-Image Translation with Conditional Adversarial Networks. CVPR. 2017. [[paper](https://arxiv.org/abs/1611.07004)] [[code]https://github.com/phillipi/pix2pix]
+- Pix2pix:Image-to-Image Translation with Conditional Adversarial Networks. CVPR. 2017. [[paper](https://arxiv.org/abs/1611.07004)] [[code](https://github.com/phillipi/pix2pix)]
 
 # Conditional Generator
 - Conditional GAN: 
