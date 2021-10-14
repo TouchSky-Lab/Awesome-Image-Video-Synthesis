@@ -1,6 +1,11 @@
 
-# Video-to-video Sythesis
+# Video-to-video  Sythesis
 - Video-to-Video Synthesis  NeurIPS. 2019. [[code](https://github.com/sakshamgupta006/video-to-video-synthesis)]
+
+
+# Audio-to-video Sythesis with image Animation
+- End-to-End Speech-Driven Facial Animation using Temporal GANs [[paper](https://sites.google.com/view/facialsynthesis/home)][[code](https://github.com/DinoMan/speech-driven-animation)]
+- Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses. ACCV 2020. [[paper](https://arxiv.org/abs/2007.09198)][[code](https://github.com/sibozhang/Speech2Video)]
 
 
 # Controllable Image Synthesis 
@@ -14,7 +19,6 @@
 - First Order Motion Model for Image Animation. NeuIPS 2019. [[paper](https://papers.nips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)][[code](https://github.com/AliaksandrSiarohin/first-order-model)]
 - 
 
-
 # Style-Transfer Generator
 - CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. ICCV. 2017 [[paper](https://arxiv.org/abs/1703.10593)]
 - Pix2pix:Image-to-Image Translation with Conditional Adversarial Networks. CVPR. 2017. [[paper](https://arxiv.org/abs/1611.07004)] [[code](https://github.com/phillipi/pix2pix)]
@@ -25,12 +29,6 @@
 - Stack-GAN:
 - PG-GAN: Progressive Growing of GANs for Improved Quality, Stability, and Variation. ICLR, 2018 [[paper](https://arxiv.org/abs/1710.10196)]
 - TL-GAN: Transparent Latent-space GAN [[code](https://github.com/SummitKwan/transparent_latent_gan)]
-
-
-
-# Speech-Driven Animation
-- End-to-End Speech-Driven Facial Animation using Temporal GANs [[paper](https://sites.google.com/view/facialsynthesis/home)][[code](https://github.com/DinoMan/speech-driven-animation)]
-- Speech2Video Synthesis with 3D Skeleton Regularization and Expressive Body Poses. ACCV 2020. [[paper](https://arxiv.org/abs/2007.09198)][[code](https://github.com/sibozhang/Speech2Video)]
 
 
 # Game Vedio Sythesis
